@@ -21,7 +21,7 @@ p4 login
 Then to generate the token that the VCS Proxy will ask for a `server level token` you can generate this by doing:
 
 ```bash
-p4 login -a -p` 
+p4 login -a -p
 ```
 Copy that string of numbers, and paste it in the VCS Proxy where it's defined.
 
