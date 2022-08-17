@@ -3,9 +3,21 @@
 Bash script I'm making to make the user journey easier to setup Perforce from the VCS Proxy. Once you've cloned this repo and unzipped it, please run:
 
 ```bash
-chmod u+x perorce.sh
+chmod u+x perforce.sh
 chmod u+x assembla_tool.sh
 ```
+
+To run these scripts after you've ran `chmod` simply just do: 
+
+```bash
+./perforce.sh
+```
+For the Perforce tool and then:
+
+```bash
+./assembla_tool.sh
+```
+For the Assembla tool.
 
 ## Passwords/Enviornment Variables
 
