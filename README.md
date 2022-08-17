@@ -1,4 +1,5 @@
-# travis-perforce-setup-bash
+# Perforce Travis CI VCS Proxy Setup Tool 
+
 Bash script I'm making to make the user journey easier to setup Perforce from the VCS Proxy.
 
 ## Passwords/Enviornment Variables
@@ -20,4 +21,4 @@ p4 login
 
 Enjoy the script, hope it makes life a tad easier! 
 
-* Montana Mendy
+<br>_Made by and Authored by Montana Mendy_</br>
