@@ -17,3 +17,7 @@ Now simply to login, just run
 ```bash
 p4 login
 ```
+
+Enjoy the script, hope it makes life a tad easier! 
+
+* Montana Mendy
