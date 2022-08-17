@@ -13,11 +13,17 @@ p4 set P4USER=your.username
 
 You can also use "set" or `setenv` or `export` as appropriate to your shell, but with a `2014.2` or newer Perforce client (use `p4 -V` to check your version information) you can use `p4 set` as a persistent cross-platform alternative. Another option is to use the `-u` and `-p` flags on every command you run.
 
-Now simply to login, just run 
+Now simply to login, just run:
 
 ```bash
 p4 login
 ```
+Then to generate the token that the VCS Proxy will ask for a `server level token` you can generate this by doing:
+
+```bash
+p4 login -a -p` 
+```
+Copy that string of numbers, and paste it in the VCS Proxy where it's defined.
 
 ## Push files to Assembla
 
