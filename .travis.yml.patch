@@ -1,0 +1,4 @@
+dist: focal
+language: python
+script: echo "This is a test!" 
+install: skip
