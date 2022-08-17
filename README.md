@@ -17,7 +17,7 @@ For the Perforce tool and then:
 ```bash
 ./assembla_tool.sh
 ```
-For the Assembla tool.
+For the Assembla tool. Please read the rest of my `README` before you actually run either of those, there's some steps you need to do before you run these bash scripts that will assist you in your installation and deployments.
 
 ## Passwords/Enviornment Variables
 
