@@ -26,7 +26,7 @@ Copy that string of numbers, and paste it in the VCS Proxy where it's defined.
 
 ## Push files to Assembla
 
-When you have your `.travis.yml` file in the `p4-test` folder that my tool makes for you, you'll then want to push it to Assembla, so I've also automated that for you! So open `assembla_tool.sh` and just run that and it will run the proper `p4` commands you need to push your files to Assembla. 
+When you have your `.travis.yml` file in the `test-p4` folder that my tool makes for you, you'll then want to push it to Assembla, so I've also automated that for you! So open `assembla_tool.sh` and just run that and it will run the proper `p4` commands you need to push your files to Assembla. 
 
 Enjoy the script, hope it makes life a tad easier! 
 
