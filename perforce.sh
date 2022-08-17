@@ -12,7 +12,7 @@ echo "yes" | sudo apt-get install helix-p4d
 # Create folders to test p4 build on 
 mkdir test-p4 
 
-# Go into the directory test-p4 and add a .travis.yml file to it (just a simple one), I'll have a simple one in this repo - so you can follow.
+# Go into the directory test-p4 and add a .travis.yml file to it (https://github.com/Montana/travis-perforce-setup-bash/blob/master/.travis.yml.patch) - here's one I made for you.
 
 # Create a ~/p4 folder, then ~/p4/p4config.txt file 
 mkdir ~/p4 
