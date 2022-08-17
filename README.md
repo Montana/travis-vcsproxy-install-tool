@@ -1,6 +1,11 @@
 # Perforce Travis CI VCS Proxy Setup Tool 
 
-Bash script I'm making to make the user journey easier to setup Perforce from the VCS Proxy.
+Bash script I'm making to make the user journey easier to setup Perforce from the VCS Proxy. Once you've cloned this repo and unzipped it, please run:
+
+```chmod u+x
+perorce.sh
+assembla_tool.sh
+```
 
 ## Passwords/Enviornment Variables
 
